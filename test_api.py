@@ -39,9 +39,9 @@ def test_cloud_api():
         if response.status_code == 200:
             result = response.json()
             print("--- Full Response from Server ---")
-            print(result)  # This will show you exactly what keys exist
+            print(result)  # This will show us exactly what keys exist
             
-            # Use the correct key based on what you see above
+            # Use the correct key based on what we see above
             # If the server sends 'diagnosis', use result['diagnosis']
             # If the server sends 'prediction', use result['prediction']
         else:
