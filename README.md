@@ -3,7 +3,7 @@ An end-to-end machine learning pipeline that predicts breast cancer malignancy w
 
 ## 🚀 Live Demo
 The API is currently deployed on Render:
-`https://your-render-url-here.onrender.com/predict`
+`[https://your-render-url-here.onrender.com/predict](https://breast-cancer-mlzoomcamp.onrender.com/)`
 
 ---
 
