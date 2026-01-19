@@ -1,0 +1,6 @@
+# .dockerignore
+*.csv
+*.xlsx
+*.ipynb
+__pycache__/
+.git/
